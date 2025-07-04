@@ -7,3 +7,4 @@
 * MENTOR: NEELA SANTOSH
 * *YOU HAVE TO ENTER DESCRIPTION OF YOUR TASK(AND IT SHOULD NOT BE LESS THAN 500 WORDS)
 * OUTPUT:![Image](https://github.com/user-attachments/assets/177b57d9-1ec8-4975-b96a-6192ca5b34b9)
+* ![Image](https://github.com/user-attachments/assets/0f3f3252-8379-4aa7-b8ae-86b2dd5e7e06)
